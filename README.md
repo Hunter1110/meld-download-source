@@ -1,3 +1,3 @@
 # meld-download-source
 
-The [images.json](https://hunter1110.github.io/meld-download-source/images.json)
+The [images.json](images.json)
